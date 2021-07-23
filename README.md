@@ -1,6 +1,6 @@
 # Spotify
 
-Desenvolvimento da página inicial do Spotify utilizando Bootstrap.
+Desenvolvimento da página inicial do Spotify utilizando Bootstrap como exercício de treino
 
 • Página "Home":
 
